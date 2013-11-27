@@ -1,0 +1,6 @@
+.vagrant/
+phpmyadmin
+vendor
+wordpress/
+.DS_Store
+app/plugins/"
